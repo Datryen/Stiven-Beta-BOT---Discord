@@ -1,0 +1,19 @@
+{
+  "name": "Stiven-Beta-BOT-Discord",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "aoi.js": "^1.0.6",
+    "dotenv": "^9.0.2",
+    "express": "^4.17.1",
+    "quick.db": "^7.1.3",
+    "sqlite3": "^5.0.2"
+  }
+}
